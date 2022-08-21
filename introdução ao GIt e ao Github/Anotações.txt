@@ -1,2 +1,3 @@
 Link para download do Git: https://git-scm.com/downloads
 Link para comandos mais úteis para usar no terminal do Mac: https://www.apptuts.net/tutorial/mac/comandos-uteis-terminal-do-mac/
+Link
